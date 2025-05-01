@@ -1,0 +1,3213 @@
+{
+    "ai_map": {
+        "footprint": "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"
+    },
+    "class_id": "com-snaplogic-pipeline",
+    "class_version": 9,
+    "link_map": {
+        "link184": {
+            "dst_id": "11111111-1111-1111-1111-000000000003",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000001",
+            "src_view_id": "output0"
+        },
+        "link189": {
+            "dst_id": "11111111-1111-1111-1111-000000000005",
+            "dst_view_id": "input1",
+            "src_id": "11111111-1111-1111-1111-000000000003",
+            "src_view_id": "output0"
+        },
+        "link194": {
+            "dst_id": "11111111-1111-1111-1111-000000000006",
+            "dst_view_id": "input1",
+            "src_id": "11111111-1111-1111-1111-000000000005",
+            "src_view_id": "output0"
+        },
+        "link202": {
+            "dst_id": "11111111-1111-1111-1111-000000000008",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000007",
+            "src_view_id": "output0"
+        },
+        "link233": {
+            "dst_id": "11111111-1111-1111-1111-000000000015",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000012",
+            "src_view_id": "output0"
+        },
+        "link239": {
+            "dst_id": "11111111-1111-1111-1111-000000000016",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000015",
+            "src_view_id": "output0"
+        },
+        "link260": {
+            "dst_id": "11111111-1111-1111-1111-000000000007",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000006",
+            "src_view_id": "output0"
+        },
+        "link272": {
+            "dst_id": "11111111-1111-1111-1111-000000000010",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-00000000000e",
+            "src_view_id": "output1"
+        },
+        "link274": {
+            "dst_id": "11111111-1111-1111-1111-000000000012",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-00000000000f",
+            "src_view_id": "output0"
+        },
+        "link275": {
+            "dst_id": "11111111-1111-1111-1111-00000000000f",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-00000000000e",
+            "src_view_id": "output0"
+        },
+        "link285": {
+            "dst_id": "11111111-1111-1111-1111-000000000011",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-00000000000e",
+            "src_view_id": "output101"
+        },
+        "link286": {
+            "dst_id": "11111111-1111-1111-1111-000000000014",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000011",
+            "src_view_id": "output0"
+        },
+        "link290": {
+            "dst_id": "11111111-1111-1111-1111-000000000009",
+            "dst_view_id": "inputRows",
+            "src_id": "11111111-1111-1111-1111-000000000008",
+            "src_view_id": "output0"
+        },
+        "link291": {
+            "dst_id": "11111111-1111-1111-1111-00000000000e",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-00000000000d",
+            "src_view_id": "output0"
+        },
+        "link292": {
+            "dst_id": "11111111-1111-1111-1111-00000000000d",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-00000000000c",
+            "src_view_id": "outputRows"
+        },
+        "link297": {
+            "dst_id": "11111111-1111-1111-1111-00000000000a",
+            "dst_view_id": "input102",
+            "src_id": "11111111-1111-1111-1111-000000000009",
+            "src_view_id": "error0"
+        },
+        "link300": {
+            "dst_id": "11111111-1111-1111-1111-000000000005",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000002",
+            "src_view_id": "output0"
+        },
+        "link301": {
+            "dst_id": "11111111-1111-1111-1111-000000000002",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000000",
+            "src_view_id": "output0"
+        },
+        "link302": {
+            "dst_id": "11111111-1111-1111-1111-00000000000c",
+            "dst_view_id": "input101",
+            "src_id": "11111111-1111-1111-1111-00000000000b",
+            "src_view_id": "output0"
+        },
+        "link303": {
+            "dst_id": "11111111-1111-1111-1111-00000000000b",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000009",
+            "src_view_id": "output0"
+        },
+        "link306": {
+            "dst_id": "11111111-1111-1111-1111-000000000006",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000004",
+            "src_view_id": "outputRows"
+        },
+        "link318": {
+            "dst_id": "11111111-1111-1111-1111-000000000013",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000010",
+            "src_view_id": "output0"
+        }
+    },
+    "property_map": {
+        "error": {
+            "error_behavior": {
+                "value": "none"
+            }
+        },
+        "info": {
+            "author": {
+                "value": "dvetter@snaplogic.com"
+            },
+            "label": {},
+            "notes": {
+                "value": null
+            },
+            "pipeline_doc_uri": {
+                "value": null
+            },
+            "purpose": {
+                "value": null
+            }
+        },
+        "input": {},
+        "output": {
+            "11111111-1111-1111-1111-000000000016_output0": {
+                "label": {
+                    "value": "Update PowerBI - output0"
+                },
+                "view_type": {
+                    "value": "document"
+                }
+            }
+        },
+        "settings": {
+            "cache_pipelines": {
+                "value": []
+            },
+            "error_param_table": {
+                "value": [
+                    {
+                        "key": {
+                            "value": "pipeline_label"
+                        },
+                        "value": {
+                            "expression": true,
+                            "value": "pipe.label"
+                        }
+                    },
+                    {
+                        "key": {
+                            "value": "pipeline_ruuid"
+                        },
+                        "value": {
+                            "expression": true,
+                            "value": "pipe.ruuid"
+                        }
+                    }
+                ]
+            },
+            "error_pipeline": {
+                "expression": false,
+                "value": null
+            },
+            "imports": {
+                "value": []
+            },
+            "param_table": {
+                "value": []
+            },
+            "suspendable": {
+                "value": false
+            }
+        }
+    },
+    "render_map": {
+        "default_snaplex": null,
+        "detail_map": {
+            "11111111-1111-1111-1111-000000000000": {
+                "error": {},
+                "grid_x_int": 1,
+                "grid_y_int": 3,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": ""
+            },
+            "11111111-1111-1111-1111-000000000001": {
+                "error": {},
+                "grid_x_int": 1,
+                "grid_y_int": 4,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000002": {
+                "error": {},
+                "grid_x_int": 2,
+                "grid_y_int": 3,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": ""
+            },
+            "11111111-1111-1111-1111-000000000003": {
+                "error": {},
+                "grid_x_int": 2,
+                "grid_y_int": 4,
+                "index": 0,
+                "input": {},
+                "output": {},
+                "recommendation_id": "10737991-572d-e195-59c9-76b3afa50fa4_0",
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "iris placeholder"
+            },
+            "11111111-1111-1111-1111-000000000004": {
+                "error": {},
+                "grid_x_int": 3,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": ""
+            },
+            "11111111-1111-1111-1111-000000000005": {
+                "error": {},
+                "grid_x_int": 3,
+                "grid_y_int": 3,
+                "index": null,
+                "input": {
+                    "input1": {
+                        "dx_int": 0,
+                        "dy_int": 1,
+                        "rot_int": 0
+                    }
+                },
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": ""
+            },
+            "11111111-1111-1111-1111-000000000006": {
+                "error": {},
+                "grid_x_int": 4,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {
+                    "input1": {
+                        "dx_int": 0,
+                        "dy_int": 1,
+                        "rot_int": 0
+                    }
+                },
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000007": {
+                "error": {},
+                "grid_x_int": 5,
+                "grid_y_int": 2,
+                "input": {},
+                "output": {},
+                "rot_int": 0,
+                "rot_tail_int": 0
+            },
+            "11111111-1111-1111-1111-000000000008": {
+                "error": {},
+                "grid_x_int": 6,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": ""
+            },
+            "11111111-1111-1111-1111-000000000009": {
+                "error": {
+                    "error0": {
+                        "dx_int": 0,
+                        "dy_int": -1,
+                        "rot_int": 0
+                    }
+                },
+                "grid_x_int": 7,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-00000000000a": {
+                "error": {},
+                "grid_x_int": 8,
+                "grid_y_int": 1,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": ""
+            },
+            "11111111-1111-1111-1111-00000000000b": {
+                "error": {},
+                "grid_x_int": 8,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-00000000000c": {
+                "error": {},
+                "grid_x_int": 9,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-00000000000d": {
+                "error": {},
+                "grid_x_int": 10,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-00000000000e": {
+                "error": {},
+                "grid_x_int": 11,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {
+                    "output1": {
+                        "dx_int": 0,
+                        "dy_int": 1,
+                        "rot_int": 0
+                    },
+                    "output101": {
+                        "dx_int": 0,
+                        "dy_int": 2,
+                        "rot_int": 0
+                    }
+                },
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-00000000000f": {
+                "error": {},
+                "grid_x_int": 12,
+                "grid_y_int": 2,
+                "index": 0,
+                "input": {},
+                "output": {},
+                "recommendation_id": "196e6391-f68e-3071-91f6-e3fdce60adfa_0",
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "iris placeholder"
+            },
+            "11111111-1111-1111-1111-000000000010": {
+                "error": {},
+                "grid_x_int": 12,
+                "grid_y_int": 3,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": ""
+            },
+            "11111111-1111-1111-1111-000000000011": {
+                "error": {},
+                "grid_x_int": 12,
+                "grid_y_int": 4,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": ""
+            },
+            "11111111-1111-1111-1111-000000000012": {
+                "error": {},
+                "grid_x_int": 13,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": ""
+            },
+            "11111111-1111-1111-1111-000000000013": {
+                "error": {},
+                "grid_x_int": 13,
+                "grid_y_int": 3,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000014": {
+                "error": {},
+                "grid_x_int": 13,
+                "grid_y_int": 4,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": ""
+            },
+            "11111111-1111-1111-1111-000000000015": {
+                "error": {},
+                "grid_x_int": 14,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": ""
+            },
+            "11111111-1111-1111-1111-000000000016": {
+                "error": {},
+                "grid_x_int": 15,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": ""
+            }
+        },
+        "notes": {
+            "119ee8b6-9354-4fb5-874e-8489b56b557d": {
+                "content": "What is happening? - Student Enrollment Automation\n\n- Grabbing data from 4 different sources\n\n- Centralizing the data in a cloud data warehouse\n\n- Performing further transformation with SQL pushdown\n\n- Reverse ETL\n\n  - Running analytics on that data in PowerBI\n\n  - On boarding people to SalesForce (CRM) and Learning Management System\n",
+                "created": "2022-11-29T01:19:09.702Z",
+                "creator": "Dylan Vetter",
+                "height": "311px",
+                "width": "655px",
+                "x": 254.891870418585,
+                "y": 152.27228156470838
+            }
+        },
+        "pan_x_num": 0,
+        "pan_y_num": 0,
+        "scale_ratio": 1
+    },
+    "snap_map": {
+        "11111111-1111-1111-1111-000000000000": {
+            "class_id": "com-snaplogic-snaps-binary-s3filereader",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000000",
+            "property_map": {
+                "account": {},
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "S3 - Read File"
+                    },
+                    "notes": {}
+                },
+                "input": {},
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "binary"
+                        }
+                    }
+                },
+                "settings": {
+                    "acl": {
+                        "value": []
+                    },
+                    "autoCommit": {
+                        "value": "False"
+                    },
+                    "bufferSize": {
+                        "value": 10
+                    },
+                    "cannedAcls": {
+                        "value": "None"
+                    },
+                    "enableStaging": {
+                        "value": false
+                    },
+                    "executeDuringPreview": {
+                        "value": true
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "fetchOutputFieldsInSchema": {
+                        "value": false
+                    },
+                    "fileAction": {
+                        "value": "OVERWRITE"
+                    },
+                    "filePath": {
+                        "expression": false,
+                        "value": "s3:///commercialbucket/Oracle_majorsV5.csv"
+                    },
+                    "filename": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "getObjectTags": {
+                        "value": false
+                    },
+                    "ignoreEmptyResult": {
+                        "value": false
+                    },
+                    "limitOffset": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "limitRows": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "matchDataTypes": {
+                        "value": false
+                    },
+                    "maxRetryProp": {
+                        "expression": false,
+                        "value": 0
+                    },
+                    "maxUploadThread": {
+                        "value": 10
+                    },
+                    "metadata": {
+                        "value": []
+                    },
+                    "orderBy": {
+                        "value": []
+                    },
+                    "outputFields": {
+                        "value": []
+                    },
+                    "passThrough": {
+                        "value": true
+                    },
+                    "retries": {
+                        "expression": false,
+                        "value": 0
+                    },
+                    "retryInterval": {
+                        "expression": false,
+                        "value": 1
+                    },
+                    "retryIntervalProp": {
+                        "expression": false,
+                        "value": 1
+                    },
+                    "schemaName": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "stagingMode": {
+                        "value": "In memory"
+                    },
+                    "suggestFullyQualifiedNames": {
+                        "value": false
+                    },
+                    "suggestInterval": {
+                        "value": []
+                    },
+                    "tableName": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "tags": {
+                        "value": []
+                    },
+                    "validate": {
+                        "value": false
+                    },
+                    "versionId": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "whereClause": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "writeEmptyFile": {
+                        "value": false
+                    },
+                    "writeHeader": {
+                        "value": false
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000001": {
+            "class_id": "com-snaplogic-snaps-rest-get",
+            "class_version": 2,
+            "instance_id": "11111111-1111-1111-1111-000000000001",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "REST GET"
+                    },
+                    "notes": {}
+                },
+                "input": {},
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "autoCommit": {
+                        "value": "False"
+                    },
+                    "connTimeout": {
+                        "value": 30
+                    },
+                    "cookiePolicy": {
+                        "expression": false,
+                        "value": "Ignore Cookies"
+                    },
+                    "enableStaging": {
+                        "value": false
+                    },
+                    "executeDuringPreview": {
+                        "value": true
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "fetchOutputFieldsInSchema": {
+                        "value": false
+                    },
+                    "filePath": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "followRedirects": {
+                        "value": true
+                    },
+                    "getObjectTags": {
+                        "value": false
+                    },
+                    "hasNext": {
+                        "expression": true,
+                        "value": null
+                    },
+                    "header": {
+                        "value": [
+                            {
+                                "headerKey": {
+                                    "expression": false,
+                                    "value": "Authorization "
+                                },
+                                "headerValue": {
+                                    "expression": false,
+                                    "value": "Bearer 9yMmCDS64ZVCbhe2ginK5Lupgz6eaoiY"
+                                }
+                            }
+                        ]
+                    },
+                    "ignoreEmptyResult": {
+                        "value": false
+                    },
+                    "limitOffset": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "limitRows": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "matchDataTypes": {
+                        "value": false
+                    },
+                    "maxRetryProp": {
+                        "expression": false,
+                        "value": 0
+                    },
+                    "nextUrl": {
+                        "expression": true,
+                        "value": null
+                    },
+                    "normalizeUri": {
+                        "value": true
+                    },
+                    "orderBy": {
+                        "value": []
+                    },
+                    "outputFields": {
+                        "value": []
+                    },
+                    "paginationInterval": {
+                        "value": 0
+                    },
+                    "passThrough": {
+                        "value": true
+                    },
+                    "processArray": {
+                        "value": false
+                    },
+                    "queryParams": {
+                        "value": []
+                    },
+                    "rawData": {
+                        "value": false
+                    },
+                    "responseEntityType": {
+                        "value": "DEFAULT"
+                    },
+                    "retries": {
+                        "expression": false,
+                        "value": 0
+                    },
+                    "retry": {
+                        "value": 5
+                    },
+                    "retryInterval": {
+                        "expression": false,
+                        "value": 3
+                    },
+                    "retryIntervalProp": {
+                        "expression": false,
+                        "value": 1
+                    },
+                    "retryPolicy": {
+                        "value": "Connection errors"
+                    },
+                    "schemaName": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "serviceUrl": {
+                        "expression": false,
+                        "value": "https://elastic.snaplogic.com/api/1/rest/slsched/feed/ConnectFasterInc/Dylan%20Vetter/Random/Mock%20Rest%20Call%20Task"
+                    },
+                    "showAllHeaders": {
+                        "value": false
+                    },
+                    "stagingMode": {
+                        "value": "In memory"
+                    },
+                    "suggestFullyQualifiedNames": {
+                        "value": false
+                    },
+                    "suggestInterval": {
+                        "value": []
+                    },
+                    "tableName": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "timeout": {
+                        "value": 900
+                    },
+                    "trustAllCerts": {
+                        "value": false
+                    },
+                    "versionId": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "whereClause": {
+                        "expression": false,
+                        "value": null
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000002": {
+            "class_id": "com-snaplogic-snaps-transform-csvparser",
+            "class_version": 3,
+            "instance_id": "11111111-1111-1111-1111-000000000002",
+            "property_map": {
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "CSV Parser"
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "binary"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "charset": {
+                        "value": "Auto BOM detect"
+                    },
+                    "containsHeader": {
+                        "value": true
+                    },
+                    "delimiter": {
+                        "value": ","
+                    },
+                    "errorPolicy": {
+                        "value": "Both"
+                    },
+                    "escapeChar": {
+                        "value": "\\"
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "ignoreEmptyData": {
+                        "value": true
+                    },
+                    "quoteCharacter": {
+                        "value": "\""
+                    },
+                    "skipLines": {
+                        "value": 0
+                    },
+                    "validateHeaders": {
+                        "value": false
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000003": {
+            "class_id": "com-snaplogic-snaps-transform-jsonsplitter",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000003",
+            "property_map": {
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "JSON Splitter"
+                    },
+                    "notes": {}
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "includeParents": {
+                        "value": false
+                    },
+                    "includePaths": {
+                        "value": []
+                    },
+                    "nullSafeAccess": {
+                        "value": false
+                    },
+                    "path": {
+                        "value": "jsonPath($, \"entity[*]\")"
+                    },
+                    "showNullValues": {
+                        "value": false
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000004": {
+            "class_id": "com-snaplogic-snaps-oracle-select",
+            "class_version": 3,
+            "instance_id": "11111111-1111-1111-1111-000000000004",
+            "property_map": {
+                "account": {},
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Oracle - Select"
+                    },
+                    "notes": {}
+                },
+                "input": {},
+                "output": {
+                    "outputRows": {
+                        "label": {
+                            "value": "rows"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "autoCommit": {
+                        "value": "False"
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "fetchOutputFieldsInSchema": {
+                        "value": false
+                    },
+                    "ignoreEmptyResult": {
+                        "value": false
+                    },
+                    "limitOffset": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "limitRows": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "matchDataTypes": {
+                        "value": false
+                    },
+                    "maxRetryProp": {
+                        "expression": false,
+                        "value": 0
+                    },
+                    "orderBy": {
+                        "value": [
+                            {
+                                "columns": {
+                                    "expression": false,
+                                    "value": "student_id"
+                                }
+                            }
+                        ]
+                    },
+                    "outputFields": {
+                        "value": []
+                    },
+                    "passThrough": {
+                        "value": true
+                    },
+                    "retryIntervalProp": {
+                        "expression": false,
+                        "value": 1
+                    },
+                    "schemaName": {
+                        "expression": false,
+                        "value": "\"ADMIN\""
+                    },
+                    "stagingMode": {
+                        "value": "In memory"
+                    },
+                    "tableName": {
+                        "expression": false,
+                        "value": "\"ADMIN\".\"studentv8\""
+                    },
+                    "whereClause": {
+                        "expression": false,
+                        "value": null
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000005": {
+            "class_id": "com-snaplogic-snaps-transform-multijoin",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000005",
+            "property_map": {
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Join on Major Code"
+                    },
+                    "notes": {}
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "input1": {
+                        "label": {
+                            "value": "input1"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "availableMemoryThreshold": {
+                        "expression": false,
+                        "value": 20
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "joinPaths": {
+                        "value": [
+                            {
+                                "leftPath": {
+                                    "expression": true,
+                                    "value": "$major_code"
+                                },
+                                "rightInputView": {
+                                    "value": "input1"
+                                },
+                                "rightPath": {
+                                    "expression": true,
+                                    "value": "$Major_Code"
+                                }
+                            }
+                        ]
+                    },
+                    "joinType": {
+                        "value": "Inner"
+                    },
+                    "noMatchData": {
+                        "value": false
+                    },
+                    "nullGreater": {
+                        "value": false
+                    },
+                    "nullSafeAccess": {
+                        "value": true
+                    },
+                    "sortedStreams": {
+                        "value": "Unsorted"
+                    }
+                },
+                "view_serial": 102
+            }
+        },
+        "11111111-1111-1111-1111-000000000006": {
+            "class_id": "com-snaplogic-snaps-transform-multijoin",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000006",
+            "property_map": {
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Join on Degree Type"
+                    },
+                    "notes": {}
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "input1": {
+                        "label": {
+                            "value": "input1"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "availableMemoryThreshold": {
+                        "expression": false,
+                        "value": 20
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "joinPaths": {
+                        "value": [
+                            {
+                                "leftPath": {
+                                    "expression": true,
+                                    "value": "$degree_type"
+                                },
+                                "rightInputView": {
+                                    "value": "input1"
+                                },
+                                "rightPath": {
+                                    "expression": true,
+                                    "value": "$major_name"
+                                }
+                            }
+                        ]
+                    },
+                    "joinType": {
+                        "value": "Inner"
+                    },
+                    "noMatchData": {
+                        "value": false
+                    },
+                    "nullGreater": {
+                        "value": false
+                    },
+                    "nullSafeAccess": {
+                        "value": true
+                    },
+                    "sortedStreams": {
+                        "value": "Unsorted"
+                    }
+                },
+                "view_serial": 102
+            }
+        },
+        "11111111-1111-1111-1111-000000000007": {
+            "class_id": "com-snaplogic-snaps-sqlserver-lookup",
+            "class_version": 3,
+            "instance_id": "11111111-1111-1111-1111-000000000007",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "expression": false,
+                        "value": {
+                            "label": {
+                                "expression": false,
+                                "label": "../../shared/SE_DEMO_SQL_Server",
+                                "value": "SE_DEMO_SQL_Server"
+                            },
+                            "ref_class_id": {
+                                "value": "com-snaplogic-snap-api-sql-accounts-sqlserverdatabaseaccount"
+                            },
+                            "ref_id": {
+                                "expression": false,
+                                "value": null
+                            }
+                        }
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "ignore"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "SQL Server Lookup "
+                    },
+                    "notes": {
+                        "value": null
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "autoCommit": {
+                        "value": "False"
+                    },
+                    "conditionalTable": {
+                        "value": []
+                    },
+                    "defaultValueTable": {
+                        "value": {
+                            "defaultValue": {
+                                "expression": true,
+                                "value": null
+                            },
+                            "defaultValuePath": {
+                                "value": null
+                            }
+                        }
+                    },
+                    "evaluateAll": {
+                        "value": false
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "fetchOutputFieldsInSchema": {
+                        "value": false
+                    },
+                    "ignoreEmptyResult": {
+                        "value": false
+                    },
+                    "limitOffset": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "limitRows": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "lookupConditions": {
+                        "value": [
+                            {
+                                "column": {
+                                    "expression": false,
+                                    "value": "\"campus_code\""
+                                },
+                                "value": {
+                                    "expression": true,
+                                    "value": "$campus_code"
+                                }
+                            }
+                        ]
+                    },
+                    "matchDataTypes": {
+                        "value": false
+                    },
+                    "maxRetryProp": {
+                        "expression": false,
+                        "value": 0
+                    },
+                    "nullSafeAccess": {
+                        "value": false
+                    },
+                    "orderBy": {
+                        "value": []
+                    },
+                    "outputFields": {
+                        "value": [
+                            {
+                                "outputField": {
+                                    "expression": false,
+                                    "value": "\"campus_name\""
+                                }
+                            }
+                        ]
+                    },
+                    "passThrough": {
+                        "value": false
+                    },
+                    "retryIntervalProp": {
+                        "expression": false,
+                        "value": 1
+                    },
+                    "schemaName": {
+                        "expression": false,
+                        "value": "\"dbo\""
+                    },
+                    "stagingMode": {
+                        "value": "In memory"
+                    },
+                    "tableName": {
+                        "expression": false,
+                        "value": "\"dbo\".\"campusV5\""
+                    },
+                    "unique_identifier_column_option": {
+                        "value": "Convert to lower case (default)"
+                    },
+                    "whereClause": {
+                        "expression": false,
+                        "value": null
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000008": {
+            "class_id": "com-snaplogic-snaps-transform-datatransform",
+            "class_version": 4,
+            "instance_id": "11111111-1111-1111-1111-000000000008",
+            "property_map": {
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Rename Fields"
+                    },
+                    "notes": {
+                        "value": null
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "nullSafeAccess": {
+                        "value": true
+                    },
+                    "passThrough": {
+                        "value": false
+                    },
+                    "transformations": {
+                        "value": {
+                            "mappingRoot": {
+                                "value": "$"
+                            },
+                            "mappingTable": {
+                                "value": [
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$original.student_id"
+                                        },
+                                        "targetPath": {
+                                            "value": "$STUDENT_ID"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$original.first_name"
+                                        },
+                                        "targetPath": {
+                                            "value": "$FIRST_NAME"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$original.last_name"
+                                        },
+                                        "targetPath": {
+                                            "value": "$LAST_NAME"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$campus_name"
+                                        },
+                                        "targetPath": {
+                                            "value": "$CAMPUS_NAME"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$original.Dorm_Location"
+                                        },
+                                        "targetPath": {
+                                            "value": "$DORM_LOCATION"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$original.degree_type"
+                                        },
+                                        "targetPath": {
+                                            "value": "$DEGREE_TYPE"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$original.homestate"
+                                        },
+                                        "targetPath": {
+                                            "value": "$HOMESTATE"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$original.advisor"
+                                        },
+                                        "targetPath": {
+                                            "value": "$ADVISOR"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$original.Finance_code"
+                                        },
+                                        "targetPath": {
+                                            "value": "$FINANCE_CODE"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$original.campus_code"
+                                        },
+                                        "targetPath": {
+                                            "value": "$CAMPUS_CODE"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$original.date_added"
+                                        },
+                                        "targetPath": {
+                                            "value": "$DATE_ADDED"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000009": {
+            "class_id": "com-snaplogic-snaps-snowflake-bulkupsert",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000009",
+            "property_map": {
+                "account": {},
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "continue"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Add to SnowFlake"
+                    },
+                    "notes": {}
+                },
+                "input": {
+                    "inputRows": {
+                        "label": {
+                            "value": "rows"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "ConvertInputKeyNamesToUpperCase": {
+                        "value": false
+                    },
+                    "DELETE": {
+                        "value": null
+                    },
+                    "additionalOptions": {
+                        "value": {
+                            "errorLimit": {
+                                "value": 0
+                            },
+                            "errorPercentageLimit": {
+                                "value": 0
+                            },
+                            "onError": {
+                                "value": "ABORT_STATEMENT"
+                            }
+                        }
+                    },
+                    "bufferSize": {
+                        "expression": false,
+                        "value": 10
+                    },
+                    "chunkFlushSize": {
+                        "expression": false,
+                        "value": 100000000
+                    },
+                    "columnList": {
+                        "value": [
+                            {
+                                "columns": {
+                                    "expression": false,
+                                    "value": "STUDENT_ID"
+                                }
+                            }
+                        ]
+                    },
+                    "createTable": {
+                        "value": false
+                    },
+                    "encryptType": {
+                        "value": "None"
+                    },
+                    "executable_during_suggest": {
+                        "value": false
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "fileFormatObject": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "fileFormatOption": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "fileFormatType": {
+                        "value": "NONE"
+                    },
+                    "kmsKey": {
+                        "expression": false,
+                        "value": "GeorgiaPeach22407!"
+                    },
+                    "loadEmptyStrings": {
+                        "value": true
+                    },
+                    "maxRetryProp": {
+                        "expression": false,
+                        "value": 0
+                    },
+                    "parallelism": {
+                        "value": 1
+                    },
+                    "preserveCaseSensistiveness": {
+                        "value": false
+                    },
+                    "retryIntervalProp": {
+                        "expression": false,
+                        "value": 1
+                    },
+                    "schemaName": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "sqlQueryManagement": {
+                        "value": "Continue to execute queued queries when pipeline is stopped or if it fails"
+                    },
+                    "stagingLocation": {
+                        "expression": false,
+                        "value": "Internal"
+                    },
+                    "tableName": {
+                        "expression": false,
+                        "value": "\"PUBLIC\".\"Oracle_Student_dataV3\""
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-00000000000a": {
+            "class_id": "com-snaplogic-snaps-slack-sendmessage",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-00000000000a",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {
+                            "label": {
+                                "expression": false,
+                                "label": "../../shared/snappy",
+                                "value": "snappy"
+                            },
+                            "ref_class_id": {
+                                "value": "com-snaplogic-snaps-slack-dynamicoauth2account"
+                            },
+                            "ref_id": {
+                                "expression": false,
+                                "value": null
+                            }
+                        }
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Slack Error Message"
+                    },
+                    "notes": {}
+                },
+                "input": {
+                    "input102": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {},
+                "settings": {
+                    "executable_during_suggest": {
+                        "value": false
+                    },
+                    "execution_mode": {
+                        "value": "Execute only"
+                    },
+                    "keyChannel": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "keyMessage": {
+                        "expression": true,
+                        "value": "\"Hi Dylan, Theres been an error: \" + $error"
+                    },
+                    "keyReplyBroadcast": {
+                        "value": false
+                    },
+                    "keyTargetType": {
+                        "value": "Users"
+                    },
+                    "keyTimestamp": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "keyUserEmails": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "keyUsers": {
+                        "expression": false,
+                        "value": "@dvetter:U02S8AG423C"
+                    }
+                },
+                "view_serial": 102
+            }
+        },
+        "11111111-1111-1111-1111-00000000000b": {
+            "class_id": "com-snaplogic-snaps-flow-pipeexec",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-00000000000b",
+            "property_map": {
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "ELT "
+                    },
+                    "notes": {}
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "batchSize": {
+                        "value": 1
+                    },
+                    "execLabel": {
+                        "expression": true,
+                        "value": null
+                    },
+                    "executable_during_suggest": {
+                        "value": true
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "loopDocument": {
+                        "expression": true
+                    },
+                    "params": {
+                        "value": []
+                    },
+                    "pipeline": {
+                        "expression": false,
+                        "value": "Copy of SnowFlake ELT"
+                    },
+                    "poolSize": {
+                        "expression": false,
+                        "value": 1
+                    },
+                    "retryInterval": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "retryLimit": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "reuse": {
+                        "value": false
+                    },
+                    "snaplex": {
+                        "expression": false
+                    },
+                    "snaplexGovernor": {
+                        "value": "SNAPLEX_WITH_PATH"
+                    },
+                    "timeout": {
+                        "expression": false,
+                        "value": null
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-00000000000c": {
+            "class_id": "com-snaplogic-snaps-snowflake-select",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-00000000000c",
+            "property_map": {
+                "account": {},
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Read from SnowFlake"
+                    },
+                    "notes": {}
+                },
+                "input": {
+                    "input101": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "outputRows": {
+                        "label": {
+                            "value": "rows"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "autoCommit": {
+                        "value": "False"
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "fetchOutputFieldsInSchema": {
+                        "value": false
+                    },
+                    "handleDateTimeValues": {
+                        "expression": false,
+                        "value": "Default Date Time format in UTC Time Zone"
+                    },
+                    "ignoreEmptyResult": {
+                        "value": false
+                    },
+                    "limitOffset": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "limitRows": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "matchDataTypes": {
+                        "value": false
+                    },
+                    "maxRetryProp": {
+                        "expression": false,
+                        "value": 0
+                    },
+                    "orderBy": {
+                        "value": [
+                            {
+                                "columns": {
+                                    "expression": false,
+                                    "value": "STUDENT_ID"
+                                }
+                            }
+                        ]
+                    },
+                    "outputFields": {
+                        "value": []
+                    },
+                    "passThrough": {
+                        "value": false
+                    },
+                    "retryIntervalProp": {
+                        "expression": false,
+                        "value": 1
+                    },
+                    "schemaName": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "sqlQueryManagement": {
+                        "value": "Continue to execute queued queries when pipeline is stopped or if it fails"
+                    },
+                    "stagingMode": {
+                        "value": "In memory"
+                    },
+                    "tableName": {
+                        "expression": false,
+                        "value": "\"PUBLIC\".\"Oracle_Student_dataV3\""
+                    },
+                    "whereClause": {
+                        "expression": false,
+                        "value": null
+                    }
+                },
+                "view_serial": 101
+            }
+        },
+        "11111111-1111-1111-1111-00000000000d": {
+            "class_id": "com-snaplogic-snaps-flow-filter",
+            "class_version": 2,
+            "instance_id": "11111111-1111-1111-1111-00000000000d",
+            "property_map": {
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "New Record?"
+                    },
+                    "notes": {}
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "filterExpression": {
+                        "expression": true,
+                        "value": "Date.parse($DATE_ADDED) > Date.now().minusMinutes(5)"
+                    },
+                    "nullSafeAccess": {
+                        "value": false
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-00000000000e": {
+            "class_id": "com-snaplogic-snaps-flow-copy",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-00000000000e",
+            "property_map": {
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Copy"
+                    },
+                    "notes": {}
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "PowerBI"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "output1": {
+                        "label": {
+                            "value": "SFDC"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "output101": {
+                        "label": {
+                            "value": "LMS"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    }
+                },
+                "view_serial": 102
+            }
+        },
+        "11111111-1111-1111-1111-00000000000f": {
+            "class_id": "com-snaplogic-snaps-transform-datatransform",
+            "class_version": 4,
+            "instance_id": "11111111-1111-1111-1111-00000000000f",
+            "property_map": {
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Clean Fields"
+                    },
+                    "notes": {}
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "nullSafeAccess": {
+                        "value": false
+                    },
+                    "passThrough": {
+                        "value": false
+                    },
+                    "transformations": {
+                        "value": {
+                            "mappingRoot": {
+                                "value": "$"
+                            },
+                            "mappingTable": {
+                                "value": [
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$STUDENT_ID"
+                                        },
+                                        "targetPath": {
+                                            "value": "$student_id"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$FIRST_NAME"
+                                        },
+                                        "targetPath": {
+                                            "value": "$first_name"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$LAST_NAME"
+                                        },
+                                        "targetPath": {
+                                            "value": "$last_name"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$HOMESTATE"
+                                        },
+                                        "targetPath": {
+                                            "value": "$homestate"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$DEGREE_TYPE"
+                                        },
+                                        "targetPath": {
+                                            "value": "$degree_type"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$CAMPUS_NAME"
+                                        },
+                                        "targetPath": {
+                                            "value": "$campus_name"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$DORM_LOCATION"
+                                        },
+                                        "targetPath": {
+                                            "value": "$dorm_location"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$ADVISOR"
+                                        },
+                                        "targetPath": {
+                                            "value": "$advisor"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$CAMPUS_CODE"
+                                        },
+                                        "targetPath": {
+                                            "value": "$campus_code"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$FINANCE_CODE"
+                                        },
+                                        "targetPath": {
+                                            "value": "$finance_code"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000010": {
+            "class_id": "com-snaplogic-snaps-transform-datatransform",
+            "class_version": 4,
+            "instance_id": "11111111-1111-1111-1111-000000000010",
+            "property_map": {
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Map to SFDC"
+                    },
+                    "notes": {}
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "batchSize": {
+                        "expression": false,
+                        "value": 200
+                    },
+                    "bulkAPISerialMode": {
+                        "value": false
+                    },
+                    "bulkContentType": {
+                        "value": "XML"
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "externalIdFieldName": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "nullSafeAccess": {
+                        "value": false
+                    },
+                    "nullSettingWithBulkApi": {
+                        "value": false
+                    },
+                    "objectType": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "passThrough": {
+                        "value": false
+                    },
+                    "relatedExternalId": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "relatedObject": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "salesforceApi": {
+                        "value": "Bulk API"
+                    },
+                    "serviceVersion": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "standardizeErrorOutput": {
+                        "value": false
+                    },
+                    "transformations": {
+                        "value": {
+                            "mappingRoot": {
+                                "value": "$"
+                            },
+                            "mappingTable": {
+                                "value": [
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$FIRST_NAME"
+                                        },
+                                        "targetPath": {
+                                            "value": "$FirstName"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$LAST_NAME "
+                                        },
+                                        "targetPath": {
+                                            "value": "$LastName"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$STUDENT_ID"
+                                        },
+                                        "targetPath": {
+                                            "value": "$External_ID__c"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$ADVISOR"
+                                        },
+                                        "targetPath": {
+                                            "value": "$Advisor__c"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$DEGREE_TYPE"
+                                        },
+                                        "targetPath": {
+                                            "value": "$Department"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$HOMESTATE"
+                                        },
+                                        "targetPath": {
+                                            "value": "$MailingState"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$DORM_LOCATION"
+                                        },
+                                        "targetPath": {
+                                            "value": "$DormLocation__c"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$CAMPUS_NAME"
+                                        },
+                                        "targetPath": {
+                                            "value": "$Campus__c"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000011": {
+            "class_id": "com-snaplogic-snaps-transform-datatransform",
+            "class_version": 4,
+            "instance_id": "11111111-1111-1111-1111-000000000011",
+            "property_map": {
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Map to LMS"
+                    },
+                    "notes": {}
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "batchSize": {
+                        "expression": false,
+                        "value": 200
+                    },
+                    "bulkAPISerialMode": {
+                        "value": false
+                    },
+                    "bulkContentType": {
+                        "value": "XML"
+                    },
+                    "displayEmptyAsNull": {
+                        "value": false
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "externalIdFieldName": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "nullSafeAccess": {
+                        "value": false
+                    },
+                    "nullSettingWithBulkApi": {
+                        "value": false
+                    },
+                    "objectType": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "passThrough": {
+                        "value": false
+                    },
+                    "pollingInterval": {
+                        "value": 5
+                    },
+                    "pollingTimeout": {
+                        "value": 3000
+                    },
+                    "relatedExternalId": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "relatedObject": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "retry": {
+                        "expression": false,
+                        "value": 5
+                    },
+                    "retryInterval": {
+                        "expression": false,
+                        "value": 3
+                    },
+                    "salesforceApi": {
+                        "value": "Bulk API"
+                    },
+                    "serviceVersion": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "standardizeErrorOutput": {
+                        "value": false
+                    },
+                    "transformations": {
+                        "value": {
+                            "mappingRoot": {
+                                "value": "$"
+                            },
+                            "mappingTable": {
+                                "value": [
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$"
+                                        },
+                                        "targetPath": {
+                                            "value": "$"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000012": {
+            "class_id": "com-snaplogic-snaps-transform-groupbyn",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000012",
+            "property_map": {
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Group for PowerBI"
+                    },
+                    "notes": {}
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "flushTimeoutSecs": {
+                        "expression": false,
+                        "value": 0
+                    },
+                    "groupSize": {
+                        "expression": false,
+                        "value": 100
+                    },
+                    "memorySensitivity": {
+                        "value": "None"
+                    },
+                    "minGroupSize": {
+                        "expression": false,
+                        "value": 1
+                    },
+                    "targetField": {
+                        "value": "rows"
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000013": {
+            "class_id": "com-snaplogic-snaps-salesforce-upsert",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000013",
+            "property_map": {
+                "account": {},
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Salesforce Upsert"
+                    },
+                    "notes": {}
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {},
+                "settings": {
+                    "applyActiveRules": {
+                        "value": true
+                    },
+                    "batchSize": {
+                        "expression": false,
+                        "value": 200
+                    },
+                    "bulkAPISerialMode": {
+                        "value": false
+                    },
+                    "bulkContentType": {
+                        "value": "XML"
+                    },
+                    "executable_during_suggest": {
+                        "value": false
+                    },
+                    "execution_mode": {
+                        "value": "Execute only"
+                    },
+                    "externalIdFieldName": {
+                        "expression": false,
+                        "value": "External_ID__c"
+                    },
+                    "nullSettingWithBulkApi": {
+                        "value": false
+                    },
+                    "objectType": {
+                        "expression": false,
+                        "value": "Contact"
+                    },
+                    "passThrough": {
+                        "value": true
+                    },
+                    "relatedExternalId": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "relatedObject": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "salesforceApi": {
+                        "value": "Bulk API"
+                    },
+                    "serviceVersion": {
+                        "expression": false,
+                        "value": "52.0"
+                    },
+                    "standardizeErrorOutput": {
+                        "value": false
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000014": {
+            "class_id": "com-snaplogic-snaps-rest-post",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000014",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {}
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "REST Post "
+                    },
+                    "notes": {}
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {},
+                "settings": {
+                    "batchSize": {
+                        "value": null
+                    },
+                    "connTimeout": {
+                        "value": 30
+                    },
+                    "cookiePolicy": {
+                        "expression": false,
+                        "value": "Ignore Cookies"
+                    },
+                    "entity": {
+                        "expression": true,
+                        "value": "$"
+                    },
+                    "executable_during_suggest": {
+                        "value": false
+                    },
+                    "execution_mode": {
+                        "value": "Execute only"
+                    },
+                    "followRedirects": {
+                        "value": true
+                    },
+                    "header": {
+                        "value": []
+                    },
+                    "mimeType": {
+                        "expression": false,
+                        "value": "application/octet-stream"
+                    },
+                    "normalizeUri": {
+                        "value": true
+                    },
+                    "queryParams": {
+                        "value": []
+                    },
+                    "rawData": {
+                        "value": false
+                    },
+                    "responseEntityType": {
+                        "value": "DEFAULT"
+                    },
+                    "retry": {
+                        "value": 5
+                    },
+                    "retryInterval": {
+                        "value": 3
+                    },
+                    "retryPolicy": {
+                        "value": "Connection errors"
+                    },
+                    "serviceUrl": {
+                        "expression": false,
+                        "value": "https://httpbin.org/post"
+                    },
+                    "showAllHeaders": {
+                        "value": false
+                    },
+                    "timeout": {
+                        "value": 900
+                    },
+                    "trustAllCerts": {
+                        "value": false
+                    },
+                    "uploadBodyType": {
+                        "value": "Multipart form-data"
+                    },
+                    "uploadFile": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "uploadFileKey": {
+                        "expression": false,
+                        "value": "file"
+                    },
+                    "uploadFileName": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "uploadFiles": {
+                        "value": [
+                            {
+                                "entity": {
+                                    "expression": true,
+                                    "value": null
+                                },
+                                "mimeType": {
+                                    "expression": false,
+                                    "value": "application/octet-stream"
+                                },
+                                "multiFileMimeType": {
+                                    "expression": false,
+                                    "value": null
+                                },
+                                "partType": {
+                                    "value": "FILE"
+                                },
+                                "uploadFile": {
+                                    "expression": false,
+                                    "value": null
+                                },
+                                "uploadFileKey": {
+                                    "expression": false,
+                                    "value": "file"
+                                },
+                                "uploadFileName": {
+                                    "expression": false,
+                                    "value": null
+                                }
+                            }
+                        ]
+                    },
+                    "uploadTransferRequestType": {
+                        "value": "Chunked transfer encoding"
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000015": {
+            "class_id": "com-snaplogic-snaps-transform-datatransform",
+            "class_version": 4,
+            "instance_id": "11111111-1111-1111-1111-000000000015",
+            "property_map": {
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Map to PowerBI"
+                    },
+                    "notes": {}
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "nullSafeAccess": {
+                        "value": false
+                    },
+                    "passThrough": {
+                        "value": false
+                    },
+                    "transformations": {
+                        "value": {
+                            "mappingRoot": {
+                                "value": "$"
+                            },
+                            "mappingTable": {
+                                "value": [
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$rows"
+                                        },
+                                        "targetPath": {
+                                            "value": "$inputParameters.rows"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000016": {
+            "class_id": "com-rojoconsultancy-snaps-powerbi-powerbipushdataset",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000016",
+            "property_map": {
+                "account": {},
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Update PowerBI"
+                    },
+                    "notes": {}
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "connectionDetails": {
+                        "value": {
+                            "Connectiontimeout": {
+                                "value": 10
+                            },
+                            "retryCount": {
+                                "value": 0
+                            },
+                            "retryInterval": {
+                                "value": 10
+                            }
+                        }
+                    },
+                    "entityId": {
+                        "expression": false,
+                        "value": "StudentData  (0ffaf0b2-4edc-4df6-917f-afc2e52e3bf2)"
+                    },
+                    "executable_during_suggest": {
+                        "value": false
+                    },
+                    "execution_mode": {
+                        "value": "Execute only"
+                    },
+                    "getEntity": {
+                        "value": "Post Rows"
+                    },
+                    "tableName": {
+                        "expression": false,
+                        "value": "StudentTable"
+                    },
+                    "workspace": {
+                        "expression": false,
+                        "value": "My Workspace"
+                    }
+                },
+                "view_serial": 100
+            }
+        }
+    }
+}
