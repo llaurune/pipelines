@@ -68,17 +68,17 @@
         },
         "info": {
             "author": {
-                "value": "msager@snaplogic.com"
+                "value": "llaurune@snaplogic.com"
             },
             "label": {},
             "notes": {
                 "value": "this is a note"
             },
             "pipeline_doc_uri": {
-                "value": "https://mysnaplogic.atlassian.net/wiki/spaces/SEng/GetDataAndProcessItPipeline"
+                "value": null
             },
             "purpose": {
-                "value": "this is a purpose"
+                "value": null
             }
         },
         "input": {
@@ -93,6 +93,9 @@
         },
         "output": {},
         "settings": {
+            "cache_pipelines": {
+                "value": []
+            },
             "error_param_table": {
                 "value": []
             },
@@ -127,7 +130,7 @@
             "11111111-1111-1111-1111-000000000000": {
                 "error": {},
                 "grid_x_int": 2,
-                "grid_y_int": 2,
+                "grid_y_int": 1,
                 "input": {},
                 "output": {},
                 "rot_int": 0,
@@ -136,7 +139,7 @@
             "11111111-1111-1111-1111-000000000001": {
                 "error": {},
                 "grid_x_int": 3,
-                "grid_y_int": 2,
+                "grid_y_int": 1,
                 "input": {},
                 "output": {},
                 "rot_int": 0,
@@ -145,7 +148,7 @@
             "11111111-1111-1111-1111-000000000002": {
                 "error": {},
                 "grid_x_int": 4,
-                "grid_y_int": 2,
+                "grid_y_int": 1,
                 "input": {},
                 "output": {},
                 "rot_int": 0,
@@ -154,7 +157,7 @@
             "11111111-1111-1111-1111-000000000003": {
                 "error": {},
                 "grid_x_int": 5,
-                "grid_y_int": 2,
+                "grid_y_int": 1,
                 "input": {},
                 "output": {},
                 "rot_int": 0,
@@ -163,7 +166,7 @@
             "11111111-1111-1111-1111-000000000004": {
                 "error": {},
                 "grid_x_int": 6,
-                "grid_y_int": 2,
+                "grid_y_int": 1,
                 "input": {},
                 "output": {
                     "output1": {
@@ -178,7 +181,7 @@
             "11111111-1111-1111-1111-000000000005": {
                 "error": {},
                 "grid_x_int": 7,
-                "grid_y_int": 2,
+                "grid_y_int": 1,
                 "input": {},
                 "output": {},
                 "rot_int": 0,
@@ -187,7 +190,7 @@
             "11111111-1111-1111-1111-000000000006": {
                 "error": {},
                 "grid_x_int": 7,
-                "grid_y_int": 3,
+                "grid_y_int": 2,
                 "input": {},
                 "output": {},
                 "rot_int": 0,
@@ -196,7 +199,7 @@
             "11111111-1111-1111-1111-000000000007": {
                 "error": {},
                 "grid_x_int": 8,
-                "grid_y_int": 2,
+                "grid_y_int": 1,
                 "input": {},
                 "output": {},
                 "rot_int": 0,
@@ -205,7 +208,7 @@
             "11111111-1111-1111-1111-000000000008": {
                 "error": {},
                 "grid_x_int": 8,
-                "grid_y_int": 3,
+                "grid_y_int": 2,
                 "input": {},
                 "output": {},
                 "rot_int": 0,
@@ -214,7 +217,7 @@
             "11111111-1111-1111-1111-000000000009": {
                 "error": {},
                 "grid_x_int": 9,
-                "grid_y_int": 2,
+                "grid_y_int": 1,
                 "input": {},
                 "output": {},
                 "rot_int": 0,
@@ -1195,7 +1198,7 @@
                         "value": true
                     },
                     "execution_mode": {
-                        "value": "Validate & Execute"
+                        "value": "Execute only"
                     },
                     "fileAction": {
                         "value": "OVERWRITE"
