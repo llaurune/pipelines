@@ -1,0 +1,16 @@
+{
+    "job_class": "PipelineJob",
+    "job_name": "simpletaskpipelineTask",
+    "note": "",
+    "parameters": {
+        "enabled": true,
+        "include_external_urls": true,
+        "job_type": "standard",
+        "pipeline_parameters": {},
+        "pipeline_path": "simpletaskpipeline",
+        "snaplex_path": "../../.Rich/shared/rdill eXtreme1"
+    },
+    "schedule": {},
+    "trigger": {},
+    "trigger_type": "ScheduleTrigger"
+}
