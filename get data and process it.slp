@@ -75,10 +75,10 @@
                 "value": "this is a note"
             },
             "pipeline_doc_uri": {
-                "value": null
+                "value": "https://httpbin.org"
             },
             "purpose": {
-                "value": null
+                "value": "test purpose"
             }
         },
         "input": {
