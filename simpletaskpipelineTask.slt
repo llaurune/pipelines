@@ -8,7 +8,7 @@
         "job_type": "standard",
         "pipeline_parameters": {},
         "pipeline_path": "simpletaskpipeline",
-        "snaplex_path": "../../.Rich/shared/rdill eXtreme1"
+        "snaplex_path": null
     },
     "schedule": {},
     "trigger": {},
