@@ -75,7 +75,7 @@
                 "value": "this is a note"
             },
             "pipeline_doc_uri": {
-                "value": "https://httpbin.org"
+                "value": null
             },
             "purpose": {
                 "value": null
