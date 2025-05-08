@@ -78,7 +78,7 @@
                 "value": "https://httpbin.org"
             },
             "purpose": {
-                "value": "this is a purpose"
+                "value": null
             }
         },
         "input": {
@@ -1198,7 +1198,7 @@
                         "value": true
                     },
                     "execution_mode": {
-                        "value": "Execute only"
+                        "value": "Validate & Execute"
                     },
                     "fileAction": {
                         "value": "OVERWRITE"
