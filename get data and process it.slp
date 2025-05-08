@@ -78,7 +78,7 @@
                 "value": "https://httpbin.org"
             },
             "purpose": {
-                "value": null
+                "value": "this is a purpose"
             }
         },
         "input": {
