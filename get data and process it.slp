@@ -1164,7 +1164,7 @@
                 },
                 "info": {
                     "label": {
-                        "value": "File Writer - peopledata"
+                        "value": "File Writer - write peopledata"
                     },
                     "notes": {
                         "value": null
