@@ -1237,7 +1237,7 @@
                         "value": true
                     },
                     "execution_mode": {
-                        "value": "Validate & Execute"
+                        "value": "Execute only"
                     },
                     "fileAction": {
                         "value": "OVERWRITE"
