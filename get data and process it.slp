@@ -78,7 +78,7 @@
                 "value": "https://urlbin.org"
             },
             "purpose": {
-                "value": "this is a purpose"
+                "value": null
             }
         },
         "input": {
