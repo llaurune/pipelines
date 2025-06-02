@@ -129,7 +129,7 @@
                 },
                 "settings": {
                     "execution_mode": {
-                        "value": "Execute only"
+                        "value": "Validate & Execute"
                     },
                     "nullSafeAccess": {
                         "value": false
