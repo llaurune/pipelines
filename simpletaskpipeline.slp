@@ -20,7 +20,7 @@
                 "value": "some link here"
             },
             "purpose": {
-                "value": "simple pipeline for test purposes"
+                "value": null
             }
         },
         "input": {
@@ -44,6 +44,9 @@
             }
         },
         "settings": {
+            "cache_pipelines": {
+                "value": []
+            },
             "error_param_table": {
                 "value": []
             },
