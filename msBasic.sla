@@ -2,7 +2,7 @@
     "class_id": "com-snaplogic-snaps-apisuite-accounts-basicauthaccount",
     "class_version": 1,
     "migration_metadata": {
-        "source_org": "ConnectFasterPOC"
+        "source_org": "ConnectFasterInc"
     },
     "property_map": {
         "info": {
