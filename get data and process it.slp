@@ -72,7 +72,7 @@
             },
             "label": {},
             "notes": {
-                "value": "this is a note"
+                "value": "this is some note."
             },
             "pipeline_doc_uri": {
                 "value": "https://urlbin.org"
