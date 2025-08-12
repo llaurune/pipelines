@@ -78,7 +78,7 @@
                 "value": "https://urlbin.org"
             },
             "purpose": {
-                "value": "test"
+                "value": "test...."
             }
         },
         "input": {
@@ -1141,7 +1141,7 @@
                         "value": true
                     },
                     "execution_mode": {
-                        "value": "Execute only"
+                        "value": "Validate & Execute"
                     },
                     "fileAction": {
                         "value": "OVERWRITE"
@@ -1237,7 +1237,7 @@
                         "value": true
                     },
                     "execution_mode": {
-                        "value": "Execute only"
+                        "value": "Validate & Execute"
                     },
                     "fileAction": {
                         "value": "OVERWRITE"
