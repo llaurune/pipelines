@@ -75,10 +75,10 @@
                 "value": "this is a note."
             },
             "pipeline_doc_uri": {
-                "value": null
+                "value": "www.link.com"
             },
             "purpose": {
-                "value": null
+                "value": "purpose"
             }
         },
         "input": {
@@ -1240,7 +1240,7 @@
                         "value": true
                     },
                     "execution_mode": {
-                        "value": "Validate & Execute"
+                        "value": "Execute only"
                     },
                     "fileAction": {
                         "value": "OVERWRITE"
