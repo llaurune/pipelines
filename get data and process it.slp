@@ -78,7 +78,7 @@
                 "value": "https://urlbin.org"
             },
             "purpose": {
-                "value": "test...."
+                "value": null
             }
         },
         "input": {
@@ -120,6 +120,9 @@
                 "value": []
             },
             "suspendable": {
+                "value": false
+            },
+            "test_pipeline": {
                 "value": false
             }
         }
@@ -1237,7 +1240,7 @@
                         "value": true
                     },
                     "execution_mode": {
-                        "value": "Execute only"
+                        "value": "Validate & Execute"
                     },
                     "fileAction": {
                         "value": "OVERWRITE"
